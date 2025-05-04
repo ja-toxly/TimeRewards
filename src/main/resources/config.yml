@@ -1,0 +1,21 @@
+# SUPPORT ON DISCORD DC.TOXLY.PL
+
+rewards:
+  rangaboost.1:
+    command: "say Gratulacje %player%! Otrzymujesz nagrodę 1!"
+    executor: "console"
+  rangaboost.2:
+    command: "say Gratulacje %player%! Otrzymujesz nagrodę 2!"
+    executor: "console"
+  rangaboost.3:
+    command: "say Gratulacje %player%! Otrzymujesz nagrodę 3!"
+    executor: "console"
+  rangaboost.4:
+    command: "say Gratulacje %player%! Otrzymujesz nagrodę 4!"
+    executor: "console"
+  rangaboost.5:
+    command: "say Gratulacje %player%! Otrzymujesz nagrodę 5!"
+    executor: "console"
+# executor moze byc tez player
+# Czas między nagrodami w milisekundach – domyślnie 1 godzina (3600000 ms)
+rewardInterval: 3600000

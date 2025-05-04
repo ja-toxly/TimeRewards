@@ -1,0 +1,23 @@
+name: TimeRewards
+version: '1.0-SNAPSHOT'
+main: me.toxly.timerewards.TimeRewards
+api-version: 1.21
+description: Plugin, który przydziela nagrody graczom z uprawnieniami rangaboost.x co określony czas gry. Support dc.toxly.pl
+author: toxly
+commands: {}
+permissions:
+  rangaboost.1:
+    description: Uprawnienie do nagrody 1
+    default: false
+  rangaboost.2:
+    description: Uprawnienie do nagrody 2
+    default: false
+  rangaboost.3:
+    description: Uprawnienie do nagrody 3
+    default: false
+  rangaboost.4:
+    description: Uprawnienie do nagrody 4
+    default: false
+  rangaboost.5:
+    description: Uprawnienie do nagrody 5
+    default: false
